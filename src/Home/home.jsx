@@ -2,7 +2,7 @@ import React from 'react';
 import './home.css'
 import Typical from 'react-typical'
 
-class Jayhome extends React.Component {
+class Patohome extends React.Component {
     state = {  } 
     render() { 
         return (
@@ -34,4 +34,4 @@ class Jayhome extends React.Component {
     }
 }
  
-export default Jayhome;
+export default Patohome;
